@@ -1,7 +1,7 @@
 # A Stopwatch JavaScript App with Lap Functionality
 **_Project: J5_**
 
-## (C)Team Javascript-J WeJapa Internship V1.0
+## (c)Team Javascript-J WeJapa Internship V1.0
 
 This was created without any framework using HTML, CSS and JavaScript.
 Icons from Fontawesome were used to identify the buttons.
