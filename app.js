@@ -69,3 +69,10 @@ function lap() {
         laps.append(li);
     }
 }
+
+// added copyright date auto-update functionality;
+function year(date) {
+    let myYear = new Date().getFullYear();
+    document.querySelector("#year").innerHTML = `WeJapa Internship  ${myYear}`;
+}
+year();
